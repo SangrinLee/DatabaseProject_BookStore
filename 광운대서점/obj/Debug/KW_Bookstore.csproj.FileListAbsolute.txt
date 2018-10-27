@@ -1,0 +1,7 @@
+D:\Coursework\3학년1학기\데이터베이스\데이터베이스 프로젝트\광운대서점\광운대서점\bin\광운대서점.dll.config
+D:\Coursework\3학년1학기\데이터베이스\데이터베이스 프로젝트\광운대서점\광운대서점\bin\광운대서점.dll
+D:\Coursework\3학년1학기\데이터베이스\데이터베이스 프로젝트\광운대서점\광운대서점\bin\광운대서점.pdb
+D:\Coursework\3학년1학기\데이터베이스\데이터베이스 프로젝트\광운대서점\광운대서점\obj\Debug\KW_Bookstore.csprojAssemblyReference.cache
+D:\Coursework\3학년1학기\데이터베이스\데이터베이스 프로젝트\광운대서점\광운대서점\obj\Debug\KW_Bookstore.csproj.CoreCompileInputs.cache
+D:\Coursework\3학년1학기\데이터베이스\데이터베이스 프로젝트\광운대서점\광운대서점\obj\Debug\광운대서점.dll
+D:\Coursework\3학년1학기\데이터베이스\데이터베이스 프로젝트\광운대서점\광운대서점\obj\Debug\광운대서점.pdb
